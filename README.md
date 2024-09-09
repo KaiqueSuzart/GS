@@ -1,4 +1,4 @@
-# MarQuizz
+# 🌊MarQuizz
 
 ## Descrição do Projeto
 
