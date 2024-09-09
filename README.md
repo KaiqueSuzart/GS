@@ -19,18 +19,21 @@ Para facilitar o uso do projeto, siga as instruções abaixo para configurar e e
 
    ```bash
    git clone https://github.com/KaiqueSuzart/GS.git
-Navegue até o Diretório do Projeto
+   
+2. **Navegue até o Diretório do Projeto**
 
-bash
+```bash
 Copiar código
 cd GS
 Execute o Projeto
-
+```
 No terminal, execute o seguinte comando para iniciar o projeto:
 
-bash
+```bash
 Copiar código
 python marquizz.py
+```
+
 O script marquizz.py iniciará o programa e você poderá interagir com o menu principal para acessar informações e quizzes.
 
 Estrutura do Código
