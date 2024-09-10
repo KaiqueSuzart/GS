@@ -46,7 +46,7 @@ Informações e Funções: O código é dividido em funções que lidam com dife
 
 ## 🙋🏽‍♀️️ Autores
 
-- **Kaique Suzart** - [Perfil LinkedIn](https://www.linkedin.com/in/kaique-suzart-05a2a3280/) | [Página GitHub](https://github.com/KaiqueSuzart)
+- **Kaique Suzart** - [LinkedIn](https://www.linkedin.com/in/kaique-suzart-05a2a3280/) | [GitHub](https://github.com/KaiqueSuzart)
 - 
 ## 📹 Vídeo Explicativo
 Para uma visão geral do projeto e sua funcionalidade, assista ao vídeo explicativo disponível [aqui](https://www.youtube.com/watch?v=v-2BJn8la5k).
