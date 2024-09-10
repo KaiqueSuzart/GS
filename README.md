@@ -22,15 +22,17 @@ Para facilitar o uso do projeto, siga as instruções abaixo para configurar e e
    
 2. **Navegue até o Diretório do Projeto**
 
-```bash
-Copiar código
+bash
+```Copiar código
+
 cd GS
-Execute o Projeto
 ```
+3. Execute o Projeto
+
 No terminal, execute o seguinte comando para iniciar o projeto:
 
-```bash
-Copiar código
+bash
+```Copiar código
 python marquizz.py
 ```
 
