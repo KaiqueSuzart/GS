@@ -48,6 +48,6 @@ Informações e Funções: O código é dividido em funções que lidam com dife
 
 - **Kaique Suzart** - [LinkedIn](https://www.linkedin.com/in/kaique-suzart-05a2a3280/) | [GitHub](https://github.com/KaiqueSuzart)
 - **Gustavo Lopes** - [LinkedIn](https://www.linkedin.com/in/gustavo-lopes-894639299/) | [GitHub](https://github.com/GuLopes14)
-- - **Lucas Nicolini** - [LinkedIn](https://www.linkedin.com/in/lucas-nicolini-b877612b8/) | [GitHub](https://github.com/1LucasNicolini) 
+- **Lucas Nicolini** - [LinkedIn](https://www.linkedin.com/in/lucas-nicolini-b877612b8/) | [GitHub](https://github.com/1LucasNicolini) 
 ## 📹 Vídeo Explicativo
 Para uma visão geral do projeto e sua funcionalidade, assista ao vídeo explicativo disponível [aqui](https://www.youtube.com/watch?v=v-2BJn8la5k).
